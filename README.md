@@ -140,15 +140,3 @@ Acknowledgements / References
 Contact
 -------
 Repository owner: theshovonsaha
-
-Customize this README
----------------------
-If you'd like I can:
-- Update examples/scripts to exactly match the files in this repo
-- Add a set of runnable example scripts under `scripts/` (with real commands)
-- Commit the README with a commit message you choose
-
-If you'd like me to commit this draft to the repo, tell me:
-- commit message (or say "use default")
-- branch name (or say "commit to main")
-- whether you'd like me to also add example scripts and a .env.example file
